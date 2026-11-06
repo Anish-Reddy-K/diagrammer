@@ -4,6 +4,8 @@ Ask your coding agent for a clean technical diagram. Get back an SVG you can dro
 
 `diagrammer` is a small Python renderer, a Claude Code skill, and an MCP server. The main workflow is simple: install the skill, ask for a diagram in plain English, and let the agent generate the SVG.
 
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/diagrammer?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/diagrammer)
+
 ![LLM inference pipeline](https://raw.githubusercontent.com/Anish-Reddy-K/diagrammer/master/docs/img/hero.png)
 
 ## Quick Start: Claude Code
